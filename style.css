@@ -1,0 +1,33 @@
+.moti{
+  position: absolute;
+  left: 40%;
+  top: 40%;
+
+}
+
+
+.dis{
+  padding: 3rem;
+  padding-left: 5rem;
+}
+.navv{
+  text: black;
+  position: absolute;
+  left: 38%;
+  top: 50%;
+}
+.disc{
+  padding-bottom: 2rem;
+}
+.bgimg-1{
+  text: purple;
+}
+#h{
+  background-color: #1B3438;
+  padding: 5rem;
+}
+#a{
+  padding: 5rem;
+}
+
+* { color: black; text-decoration: none;}
